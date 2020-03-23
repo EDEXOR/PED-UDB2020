@@ -1,0 +1,14 @@
+C:\Users\EDWARD\Desktop\ProyectoPED_Fisica\ProyectoPED_Fisica\bin\Debug\ProyectoPED_Fisica.exe.config
+C:\Users\EDWARD\Desktop\ProyectoPED_Fisica\ProyectoPED_Fisica\bin\Debug\ProyectoPED_Fisica.exe
+C:\Users\EDWARD\Desktop\ProyectoPED_Fisica\ProyectoPED_Fisica\bin\Debug\ProyectoPED_Fisica.pdb
+C:\Users\EDWARD\Desktop\ProyectoPED_Fisica\ProyectoPED_Fisica\obj\Debug\ProyectoPED_Fisica.csprojResolveAssemblyReference.cache
+C:\Users\EDWARD\Desktop\ProyectoPED_Fisica\ProyectoPED_Fisica\obj\Debug\ProyectoPED_Fisica.Inicio.resources
+C:\Users\EDWARD\Desktop\ProyectoPED_Fisica\ProyectoPED_Fisica\obj\Debug\ProyectoPED_Fisica.Properties.Resources.resources
+C:\Users\EDWARD\Desktop\ProyectoPED_Fisica\ProyectoPED_Fisica\obj\Debug\ProyectoPED_Fisica.csproj.GenerateResource.Cache
+C:\Users\EDWARD\Desktop\ProyectoPED_Fisica\ProyectoPED_Fisica\obj\Debug\ProyectoPED_Fisica.exe
+C:\Users\EDWARD\Desktop\ProyectoPED_Fisica\ProyectoPED_Fisica\obj\Debug\ProyectoPED_Fisica.pdb
+C:\Users\EDWARD\Desktop\ProyectoPED_Fisica\ProyectoPED_Fisica\obj\Debug\ProyectoPED_Fisica.Login.resources
+C:\Users\EDWARD\Desktop\ProyectoPED_Fisica\ProyectoPED_Fisica\obj\Debug\ProyectoPED_Fisica.FrmG.resources
+C:\Users\EDWARD\Desktop\ProyectoPED_Fisica\ProyectoPED_Fisica\obj\Debug\ProyectoPED_Fisica.menu.resources
+C:\Users\EDWARD\Desktop\ProyectoPED_Fisica\ProyectoPED_Fisica\obj\Debug\ProyectoPED_Fisica.menuU1.resources
+C:\Users\EDWARD\Desktop\ProyectoPED_Fisica\ProyectoPED_Fisica\obj\Debug\ProyectoPED_Fisica.Form1.resources
